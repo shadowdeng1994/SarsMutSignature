@@ -3,8 +3,6 @@
 #### 
 
 library(tidyverse)
-# library(seqinr)
-# library(phytools)
 
 args <- commandArgs(T)
 File_Align <- args[1]
